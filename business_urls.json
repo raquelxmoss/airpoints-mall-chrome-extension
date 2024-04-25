@@ -1,0 +1,490 @@
+{
+    "24S AU - Clothes & Fashion": {
+        "name": "24S AU - Clothes & Fashion",
+        "url": "https://www.24s.com/en-au/women"
+    },
+    "2XU Australia - Clothes & Fashion": {
+        "name": "2XU Australia - Clothes & Fashion",
+        "url": "https://2xu.com/"
+    },
+    "Adore Beauty NZ - Health & Beauty": {
+        "name": "Adore Beauty NZ - Health & Beauty",
+        "url": "https://www.adorebeauty.co.nz/"
+    },
+    "Adventure Kings NZ - Home & Garden": {
+        "name": "Adventure Kings NZ - Home & Garden",
+        "url": "https://nz.adventurekings.com/"
+    },
+    "Ann Taylor - Clothes & Fashion": {
+        "name": "Ann Taylor - Clothes & Fashion",
+        "url": "https://www.anntaylor.com/"
+    },
+    "Anthropologie - Clothes & Fashion": {
+        "name": "Anthropologie - Clothes & Fashion",
+        "url": "https://www.anthropologie.com/"
+    },
+    "Apple New Zealand - Electricals": {
+        "name": "Apple New Zealand - Electricals",
+        "url": "https://www.apple.com/nz/store"
+    },
+    "ASOS AU - Clothes & Fashion": {
+        "name": "ASOS AU - Clothes & Fashion",
+        "url": "https://www.asos.com/au/"
+    },
+    "Aveda - Health & Beauty": {
+        "name": "Aveda - Health & Beauty",
+        "url": "https://www.aveda.com/"
+    },
+    "Baby Bunting - Children & Family": {
+        "name": "Baby Bunting - Children & Family",
+        "url": "https://www.babybunting.co.nz/bb-family"
+    },
+    "Banana Republic US - Clothes & Fashion": {
+        "name": "Banana Republic US - Clothes & Fashion",
+        "url": "https://bananarepublic.gap.com/"
+    },
+    "Barkers - Clothes & Fashion": {
+        "name": "Barkers - Clothes & Fashion",
+        "url": "https://www.barkersonline.co.nz/"
+    },
+    "Better World Books - Entertainment & Leisure": {
+        "name": "Better World Books - Entertainment & Leisure",
+        "url": "https://www.betterworldbooks.com/"
+    },
+    "Blackmores - Health & Beauty": {
+        "name": "Blackmores - Health & Beauty",
+        "url": "https://www.blackmoresnz.co.nz/products/beauty-sleep"
+    },
+    "Bonds - Clothes & Fashion": {
+        "name": "Bonds - Clothes & Fashion",
+        "url": "https://www.bonds.com.au/"
+    },
+    "Boody NZ - Clothes & Fashion": {
+        "name": "Boody NZ - Clothes & Fashion",
+        "url": "https://boody.co.nz/"
+    },
+    "boohoo - Clothes & Fashion": {
+        "name": "boohoo - Clothes & Fashion",
+        "url": "https://www.boohoo.com/"
+    },
+    "Booktopia [AU] - Entertainment & Leisure": {
+        "name": "Booktopia [AU] - Entertainment & Leisure",
+        "url": "https://www.booktopia.com.au/leisure-and-entertainment-since-1900-timothy-knapman/book/9780008163822.html"
+    },
+    "Bras N Things [NZ] - Clothes & Fashion": {
+        "name": "Bras N Things [NZ] - Clothes & Fashion",
+        "url": "https://www.brasnthings.co.nz/"
+    },
+    "Cable Bay Adventure Park - Entertainment & Leisure": {
+        "name": "Cable Bay Adventure Park - Entertainment & Leisure",
+        "url": "https://www.cablebayadventurepark.com/"
+    },
+    "Calvin Klein NZ - Clothes & Fashion": {
+        "name": "Calvin Klein NZ - Clothes & Fashion",
+        "url": "https://www.calvinklein.co.nz/"
+    },
+    "Canningvale - Home & Garden": {
+        "name": "Canningvale - Home & Garden",
+        "url": "https://www.canningvale.com/all-giveaways"
+    },
+    "Celebration Box - Gifts & Flowers": {
+        "name": "Celebration Box - Gifts & Flowers",
+        "url": "https://www.celebrationbox.co.nz/"
+    },
+    "Charles & Keith (AU) - Clothes & Fashion": {
+        "name": "Charles & Keith (AU) - Clothes & Fashion",
+        "url": "https://www.charleskeith.com/au/clothing"
+    },
+    "Charles Tyrwhitt AU - Clothes & Fashion": {
+        "name": "Charles Tyrwhitt AU - Clothes & Fashion",
+        "url": "https://www.charlestyrwhitt.com/au/"
+    },
+    "Chemist Warehouse NZ - Health & Beauty": {
+        "name": "Chemist Warehouse NZ - Health & Beauty",
+        "url": "https://www.chemistwarehouse.co.nz/"
+    },
+    "City Chic NZ - Clothes & Fashion": {
+        "name": "City Chic NZ - Clothes & Fashion",
+        "url": "https://www.citychic.co.nz/"
+    },
+    "Cleanz - Home & Garden": {
+        "name": "Cleanz - Home & Garden",
+        "url": "https://www.airnewzealand.co.nz/airpoints-mall/home-and-garden/cleanz"
+    },
+    "Clearly NZ - Health & Beauty": {
+        "name": "Clearly NZ - Health & Beauty",
+        "url": "https://www.clearly.co.nz/en-nz"
+    },
+    "Coach NZ - Clothes & Fashion": {
+        "name": "Coach NZ - Clothes & Fashion",
+        "url": "https://nz.coach.com/"
+    },
+    "Converse [NZ] - Clothes & Fashion": {
+        "name": "Converse [NZ] - Clothes & Fashion",
+        "url": "https://www.rebelsport.co.nz/shop-by-brand/converse/"
+    },
+    "Cotton On - Clothes & Fashion": {
+        "name": "Cotton On - Clothes & Fashion",
+        "url": "https://cottonon.com/NZ/"
+    },
+    "Country Road NZ - Clothes & Fashion": {
+        "name": "Country Road NZ - Clothes & Fashion",
+        "url": "https://www.countryroad.co.nz/woman-clothing-new-in/"
+    },
+    "Cue AU - Clothes & Fashion": {
+        "name": "Cue AU - Clothes & Fashion",
+        "url": "https://www.cue.com/au/"
+    },
+    "Dell NZ - Electricals": {
+        "name": "Dell NZ - Electricals",
+        "url": "https://www.dell.com/en-nz"
+    },
+    "Disney Store - Children & Family": {
+        "name": "Disney Store - Children & Family",
+        "url": "https://www.disneystore.com/"
+    },
+    "Downlights New Zealand - Home & Garden": {
+        "name": "Downlights New Zealand - Home & Garden",
+        "url": "https://www.lightingplus.co.nz/lighting/downlights-recessed-lighting"
+    },
+    "Dr. Martens AU - Clothes & Fashion": {
+        "name": "Dr. Martens AU - Clothes & Fashion",
+        "url": "https://www.drmartens.com.au/"
+    },
+    "Dr. Martens NZ - Clothes & Fashion": {
+        "name": "Dr. Martens NZ - Clothes & Fashion",
+        "url": "https://www.drmartens.co.nz/"
+    },
+    "Dyson NZ - Electricals": {
+        "name": "Dyson NZ - Electricals",
+        "url": "https://www.dyson.co.nz/"
+    },
+    "eBay [AU] - Department Stores": {
+        "name": "eBay [AU] - Department Stores",
+        "url": "https://www.ebay.com.au/n/all-stores"
+    },
+    "ECCO [NZ] - Clothes & Fashion": {
+        "name": "ECCO [NZ] - Clothes & Fashion",
+        "url": "https://www.eccoshoes.co.nz/"
+    },
+    "Ecosa NZ - Home & Garden": {
+        "name": "Ecosa NZ - Home & Garden",
+        "url": "https://www.ecosa.co.nz/"
+    },
+    "EcoWarehouse - Home & Garden": {
+        "name": "EcoWarehouse - Home & Garden",
+        "url": "https://ecowarehouse.nz/all-products/home-and-garden/eco-household"
+    },
+    "Etsy Australia - Department Stores": {
+        "name": "Etsy Australia - Department Stores",
+        "url": "https://www.etsy.com/au/"
+    },
+    "Everyday Needs NZ - Department Stores": {
+        "name": "Everyday Needs NZ - Department Stores",
+        "url": "https://www.everyday-needs.com/collections/all"
+    },
+    "Find Me A Gift - Gifts & Flowers": {
+        "name": "Find Me A Gift - Gifts & Flowers",
+        "url": "https://www.celebrationbox.co.nz/collections/flowers"
+    },
+    "Foot Locker Australia - Sport & Fitness": {
+        "name": "Foot Locker Australia - Sport & Fitness",
+        "url": "https://www.footlocker.com.au/"
+    },
+    "Forever New - Clothes & Fashion": {
+        "name": "Forever New - Clothes & Fashion",
+        "url": "https://www.forevernew.co.nz/"
+    },
+    "frank green NZ - Food & Drink": {
+        "name": "frank green NZ - Food & Drink",
+        "url": "https://nz.frankgreen.com/"
+    },
+    "Free People - Clothes & Fashion": {
+        "name": "Free People - Clothes & Fashion",
+        "url": "https://www.freepeople.com/"
+    },
+    "Gap US - Clothes & Fashion": {
+        "name": "Gap US - Clothes & Fashion",
+        "url": "https://www.gap.com/"
+    },
+    "General Pants AU - Clothes & Fashion": {
+        "name": "General Pants AU - Clothes & Fashion",
+        "url": "https://www.generalpants.com/au/"
+    },
+    "GoDaddy.com - Office & Business": {
+        "name": "GoDaddy.com - Office & Business",
+        "url": "https://www.godaddy.com/help/compare-microsoft-365-email-plans-9014"
+    },
+    "Hallenstein Brothers - Clothes & Fashion": {
+        "name": "Hallenstein Brothers - Clothes & Fashion",
+        "url": "https://www.hallensteins.com/"
+    },
+    "HealthPost - Health & Beauty": {
+        "name": "HealthPost - Health & Beauty",
+        "url": "https://www.healthpost.co.nz/"
+    },
+    "Hello & Cookie - Food & Drink": {
+        "name": "Hello & Cookie - Food & Drink",
+        "url": "https://www.helloandcookie.co.nz/"
+    },
+    "Hype DC NZ - Clothes & Fashion": {
+        "name": "Hype DC NZ - Clothes & Fashion",
+        "url": "https://www.hypedc.com/nz/"
+    },
+    "isubscribe.co.nz - Entertainment & Leisure": {
+        "name": "isubscribe.co.nz - Entertainment & Leisure",
+        "url": "https://www.isubscribe.co.nz/"
+    },
+    "iTunes New Zealand - Entertainment & Leisure": {
+        "name": "iTunes New Zealand - Entertainment & Leisure",
+        "url": "https://www.apple.com/nz/itunes/"
+    },
+    "JD Sports AU - Clothes & Fashion": {
+        "name": "JD Sports AU - Clothes & Fashion",
+        "url": "https://www.jd-sports.com.au/"
+    },
+    "Jo Mercer - Clothes & Fashion": {
+        "name": "Jo Mercer - Clothes & Fashion",
+        "url": "https://www.jomercer.com.au/"
+    },
+    "Lekker Bikes - Entertainment & Leisure": {
+        "name": "Lekker Bikes - Entertainment & Leisure",
+        "url": "https://www.airnewzealand.co.nz/airpoints-mall/entertainment-and-leisure/lekker-bikes"
+    },
+    "Lenovo NZ - Electricals": {
+        "name": "Lenovo NZ - Electricals",
+        "url": "https://www.lenovo.com/nz/en/"
+    },
+    "Life Pharmacy - Health & Beauty": {
+        "name": "Life Pharmacy - Health & Beauty",
+        "url": "https://www.lifepharmacy.co.nz/"
+    },
+    "Linden Leaves - Health & Beauty": {
+        "name": "Linden Leaves - Health & Beauty",
+        "url": "https://lindenleaves.com/product-category/ranges/natural-skincare/"
+    },
+    "Liquorland - Earn Online and Instore": {
+        "name": "Liquorland - Earn Online and Instore",
+        "url": "https://www.airnewzealand.co.nz/airpoints-mall/earn-online-and-instore/liquorland"
+    },
+    "LUISAVIAROMA US - Clothes & Fashion": {
+        "name": "LUISAVIAROMA US - Clothes & Fashion",
+        "url": "https://www.luisaviaroma.com/en-us"
+    },
+    "M\u0101nuka Doctor - Health & Beauty": {
+        "name": "M\u0101nuka Doctor - Health & Beauty",
+        "url": "https://www.manukadoctor.co.nz/"
+    },
+    "MARCS AU - Clothes & Fashion": {
+        "name": "MARCS AU - Clothes & Fashion",
+        "url": "https://www.marcs.com.au/"
+    },
+    "Marks & Spencer [NZ] - Department Stores": {
+        "name": "Marks & Spencer [NZ] - Department Stores",
+        "url": "https://www.marksandspencer.com/nz/"
+    },
+    "MaverickSurf - Sport & Fitness": {
+        "name": "MaverickSurf - Sport & Fitness",
+        "url": "https://mavericksurf.co.nz/"
+    },
+    "Merchant1948 Overland - Clothes & Fashion": {
+        "name": "Merchant1948 Overland - Clothes & Fashion",
+        "url": "https://www.merchant1948.co.nz/"
+    },
+    "Mitre 10 - Earn Online and Instore": {
+        "name": "Mitre 10 - Earn Online and Instore",
+        "url": "https://www.mitre10.co.nz/airpoints"
+    },
+    "Molly Woppy - Food & Drink": {
+        "name": "Molly Woppy - Food & Drink",
+        "url": "https://www.mollywoppy.co.nz/"
+    },
+    "Mr Porter AU - Clothes & Fashion": {
+        "name": "Mr Porter AU - Clothes & Fashion",
+        "url": "https://www.mrporter.com/"
+    },
+    "NET-A-PORTER AU - Clothes & Fashion": {
+        "name": "NET-A-PORTER AU - Clothes & Fashion",
+        "url": "https://www.net-a-porter.com/en-au/"
+    },
+    "New Balance NZ - Sport & Fitness": {
+        "name": "New Balance NZ - Sport & Fitness",
+        "url": "https://www.newbalance.co.nz/"
+    },
+    "Nike [NZ] - Sport & Fitness": {
+        "name": "Nike [NZ] - Sport & Fitness",
+        "url": "https://www.nike.com/nz"
+    },
+    "Nine West AU/NZ - Clothes & Fashion": {
+        "name": "Nine West AU/NZ - Clothes & Fashion",
+        "url": "https://www.ninewest.com.au/"
+    },
+    "Norton New Zealand - Electricals": {
+        "name": "Norton New Zealand - Electricals",
+        "url": "https://www.airnewzealand.co.nz/airpoints-mall/electricals/norton-new-zealand"
+    },
+    "NZ Gameshop - Entertainment & Leisure": {
+        "name": "NZ Gameshop - Entertainment & Leisure",
+        "url": "https://nzgameshop.com/collections/gaming"
+    },
+    "NZSALE - Department Stores": {
+        "name": "NZSALE - Department Stores",
+        "url": "https://www.nzsale.co.nz/"
+    },
+    "Onceit - Department Stores": {
+        "name": "Onceit - Department Stores",
+        "url": "https://www.onceit.co.nz/"
+    },
+    "Oroton - Clothes & Fashion": {
+        "name": "Oroton - Clothes & Fashion",
+        "url": "https://oroton.com/"
+    },
+    "Paper Plane - Home & Garden": {
+        "name": "Paper Plane - Home & Garden",
+        "url": "https://www.paperplanestore.com/"
+    },
+    "Paper Plus - Home & Garden": {
+        "name": "Paper Plus - Home & Garden",
+        "url": "https://www.paperplus.co.nz/shop/books/non-fiction/home-garden"
+    },
+    "Petals Florist Network [NZ] - Gifts & Flowers": {
+        "name": "Petals Florist Network [NZ] - Gifts & Flowers",
+        "url": "https://www.petalscf.co.nz/"
+    },
+    "Platypus [NZ] - Clothes & Fashion": {
+        "name": "Platypus [NZ] - Clothes & Fashion",
+        "url": "https://www.platypusshoes.co.nz/shop/mens"
+    },
+    "Pretty Little Thing AU - Clothes & Fashion": {
+        "name": "Pretty Little Thing AU - Clothes & Fashion",
+        "url": "https://www.prettylittlething.com.au/"
+    },
+    "PUMA NZ - Sport & Fitness": {
+        "name": "PUMA NZ - Sport & Fitness",
+        "url": "https://nz.puma.com/"
+    },
+    "R.M. Williams - Clothes & Fashion": {
+        "name": "R.M. Williams - Clothes & Fashion",
+        "url": "https://www.rmwilliams.com.au/nz/clothing/women/all-clothing"
+    },
+    "Rebecca Vallance AU - Clothes & Fashion": {
+        "name": "Rebecca Vallance AU - Clothes & Fashion",
+        "url": "https://rebeccavallance.com/"
+    },
+    "RedBalloon NZ - Entertainment & Leisure": {
+        "name": "RedBalloon NZ - Entertainment & Leisure",
+        "url": "https://www.redballoon.co.nz/"
+    },
+    "SABA - Clothes & Fashion": {
+        "name": "SABA - Clothes & Fashion",
+        "url": "https://www.saba.com.au/"
+    },
+    "Samsung NZ - Electricals": {
+        "name": "Samsung NZ - Electricals",
+        "url": "https://www.samsung.com/nz/"
+    },
+    "Scotch & Soda NZ - Clothes & Fashion": {
+        "name": "Scotch & Soda NZ - Clothes & Fashion",
+        "url": "https://scotch-soda.co.nz/"
+    },
+    "Sephora [NZ] - Health & Beauty": {
+        "name": "Sephora [NZ] - Health & Beauty",
+        "url": "https://www.sephora.nz/categories/gifts"
+    },
+    "Shaver Shop (NZ) - Electricals": {
+        "name": "Shaver Shop (NZ) - Electricals",
+        "url": "https://www.shavershop.net.nz/"
+    },
+    "Showpo - Clothes & Fashion": {
+        "name": "Showpo - Clothes & Fashion",
+        "url": "https://www.showpo.com/"
+    },
+    "Simon James Design - Home & Garden": {
+        "name": "Simon James Design - Home & Garden",
+        "url": "https://simonjames.co.nz/collections/simon-james-design"
+    },
+    "Skechers NZ - Clothes & Fashion": {
+        "name": "Skechers NZ - Clothes & Fashion",
+        "url": "https://www.skechers.co.nz/"
+    },
+    "Skinnies - Health & Beauty": {
+        "name": "Skinnies - Health & Beauty",
+        "url": "https://skinnies.co.nz/"
+    },
+    "Smart Buy Glasses [NZ] - Health & Beauty": {
+        "name": "Smart Buy Glasses [NZ] - Health & Beauty",
+        "url": "https://www.smartbuyglasses.co.nz/"
+    },
+    "Specsavers Contact Lenses - Health & Beauty": {
+        "name": "Specsavers Contact Lenses - Health & Beauty",
+        "url": "https://www.specsavers.co.nz/contact-lenses"
+    },
+    "Sportscraft - Clothes & Fashion": {
+        "name": "Sportscraft - Clothes & Fashion",
+        "url": "https://www.sportscraft.nz/collections/women/clothing"
+    },
+    "StrawberryNET - Health & Beauty": {
+        "name": "StrawberryNET - Health & Beauty",
+        "url": "https://www.strawberrynet.com/en-NZ"
+    },
+    "Stylerunner NZ - Clothes & Fashion": {
+        "name": "Stylerunner NZ - Clothes & Fashion",
+        "url": "https://www.stylerunner.com/nz/"
+    },
+    "Styletread AU - Clothes & Fashion": {
+        "name": "Styletread AU - Clothes & Fashion",
+        "url": "https://www.styletread.com.au/"
+    },
+    "Superdry Australia - Clothes & Fashion": {
+        "name": "Superdry Australia - Clothes & Fashion",
+        "url": "https://superdry.com.au/"
+    },
+    "T2 NZ - Food & Drink": {
+        "name": "T2 NZ - Food & Drink",
+        "url": "https://www.t2tea.com/en/nz"
+    },
+    "The Iconic [New Zealand] - Clothes & Fashion": {
+        "name": "The Iconic [New Zealand] - Clothes & Fashion",
+        "url": "https://www.theiconic.co.nz/"
+    },
+    "The North Face NZ - Sport & Fitness": {
+        "name": "The North Face NZ - Sport & Fitness",
+        "url": "https://thenorthface.co.nz/"
+    },
+    "The Well Store AU - Health & Beauty": {
+        "name": "The Well Store AU - Health & Beauty",
+        "url": "https://www.thewellstore.com.au/"
+    },
+    "TOMMY HILFIGER NZ - Clothes & Fashion": {
+        "name": "TOMMY HILFIGER NZ - Clothes & Fashion",
+        "url": "https://nz.tommy.com/"
+    },
+    "Tony Bianco - Clothes & Fashion": {
+        "name": "Tony Bianco - Clothes & Fashion",
+        "url": "https://www.tonybianco.com/au/"
+    },
+    "True Religion - Clothes & Fashion": {
+        "name": "True Religion - Clothes & Fashion",
+        "url": "https://www.truereligion.com/"
+    },
+    "Typo NZ - Clothes & Fashion": {
+        "name": "Typo NZ - Clothes & Fashion",
+        "url": "https://cottonon.com/NZ/typo/"
+    },
+    "Vans NZ - Clothes & Fashion": {
+        "name": "Vans NZ - Clothes & Fashion",
+        "url": "https://www.vans.co.nz/shop/mens"
+    },
+    "Vision Direct Australia - Clothes & Fashion": {
+        "name": "Vision Direct Australia - Clothes & Fashion",
+        "url": "https://www.visiondirect.com.au/"
+    },
+    "Wild Earth - Clothes & Fashion": {
+        "name": "Wild Earth - Clothes & Fashion",
+        "url": "https://www.wildearth.com.au/buy/clothing-by-gender"
+    },
+    "YOOX Australia - Clothes & Fashion": {
+        "name": "YOOX Australia - Clothes & Fashion",
+        "url": "https://www.yoox.com/au"
+    }
+}
